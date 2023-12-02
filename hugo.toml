@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'Kohinoor Writes'
 theme = "hugo-paper"
 
-disqusShortname = 'kohinoor23.github.io'   # use disqus comments
+disqusShortname = 'kohinoor23-github-io'   # use disqus comments
 
 [params]
   # color style
@@ -20,7 +20,7 @@ disqusShortname = 'kohinoor23.github.io'   # use disqus comments
   # home page profile
   avatar = 'atuliraz1305@gmail.com'                 # gravatar email or image url
   name = 'Atul'
-  bio = 'Be Charismatic!'
+  bio = 'Be Charismatic'
 
 
   # misc
