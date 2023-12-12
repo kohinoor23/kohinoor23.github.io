@@ -1,7 +1,7 @@
 +++
 title = 'Japanese Escapade'
 date = 2023-12-10T09:04:56+05:30
-draft = false
+draft = true
 +++
 
 ## Prologue
@@ -17,11 +17,13 @@ As we neared the trip, my family kept checking on me if I had kept everything. M
 
 We were given a "Veg Hindu Meal", thanks to JST. Along with the dinner, they provided a white pouch with fresh fruits and some more food. It was maybe to compensate for breakfast, so I kept it in my bag. Beside me was an old Japanese man who was enjoying Japanese movies with wine(Yes, the staff offered wine to us, but I settled with some apple juice). The flight was a night flight, not much to do. Watched some Top Gun Maverick, and slept.  
 
+![Yen](/images/20230923_113544.jpg)
 <figure>
   <img src="/images/20230923_113544.jpg" alt="Japanese Yen" width = "500px">
   <figcaption>Japanese Yen</figcaption>
 </figure>
  
+ ![ticket](/images/20230923_184349.jpg)
 <figure>
   <img src="/images/20230923_184349.jpg" alt="First International Ticket" width = "500px">
   <figcaption>First International Ticket</figcaption>
@@ -32,6 +34,7 @@ Touchdown! We landed safely, and joined the JST people. It was around 9 am in Ja
     
 We were divided to two buses: 1 and 2, and these buses stayed for the whole trip. Our team was assigned bus 2. All the buses in Japan are electric, and as the bus moved through the roads, we could observe how much developed Japan was. Clean roads, calm traffic, tall buildings and well-dressed people. Our first stop was Asakusa temple. It is the perfect heritage of Japanese architecture. Kumiko San(San ~ ma'am), a coordinator at JST was our guide. Kumiko San was holding a stick with a funny panda to lead the group. In Japan, there are a lot of temples and shrines, and note that both have distinct features. Temples serve buddhist traditions, whereas shrines serve shinto traditions. Before entering Asakusa to pray, we purified ourselves at the Chozuya. It has a very specific procedure to clean your hands. 
 
+![Chozuya](/images/20230924_092202.jpg)
 <figure>
   <img src="/images/20230924_092202.jpg" alt="Chozuya" width = "500px">
   <figcaption>Chozuya</figcaption>
@@ -39,24 +42,35 @@ We were divided to two buses: 1 and 2, and these buses stayed for the whole trip
 
 We prayed like a usual temple. Post this, we were given exact 25 mins to roam around the rest of the complex and the market as well. This was our first introduction to Japanese time punctuality. We passed through a big gate with a large gong and two monsters guarding it. A large monster footmark was hanging to the gate. Kumiko San (yes, we had a choice to roam with/without guide) explained the historical beliefs. Whenever Japanese people are in trouble, the large footed monster saved them. The guards are looking into your eyes, and always guarding the temple. 
 
+![Praying Area](/images/20230924_092220.jpg)
 <figure>
-  <img src="/images/20230924_092220jpg" alt="Gong" width = "500px">
+  <img src="/images/20230924_092220.jpg" alt="Gong" width = "500px">
   <figcaption>Praying Area</figcaption>
 </figure>
 
-
+![Gong](/images/IMG_2085.jpg)
 <figure>
   <img src="/images/IMG_2085.jpg" alt="Gong" width = "500px">
   <figcaption>Under the gong with the team</figcaption>
 </figure>
 
+![large gate](/images/IMG_2073.jpg)
 <figure>
   <img src="/images/IMG_2073.jpg" alt="large gate" width = "500px">
   <figcaption>The Monstrous Gate</figcaption>
 </figure>
 
+![the big foot](/images/20230924_093407.jpg)
 <figure>
   <img src="/images/20230924_093407.jpg" alt="the big foot" width = "500px">
   <figcaption>The Big Foot</figcaption>
+</figure>
+
+During the last 10 mins, we had a quick walk through the crowd in the market lane. It was just like another tourist place market, extra priced souvenirs. The view was nice for a pic, especially the flowers. 
+
+![market lane](/images/IMG_2087.jpg)
+<figure>
+  <img src="/images/IMG_2087.jpg" alt="market lane" width = "500px">
+  <figcaption>Market Lane</figcaption>
 </figure>
 
