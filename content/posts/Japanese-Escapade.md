@@ -1,7 +1,7 @@
 +++
 title = 'Japanese Escapade'
 date = 2023-12-10T09:04:56+05:30
-draft = true
+draft = false
 +++
 
 ## Prologue
