@@ -1,7 +1,7 @@
 baseURL = "https://kohinoor23.github.io/"
 languageCode = 'en-us'
 title = 'Kohinoor Writes'
-theme = "hugo-paper"
+theme = "paper"
 
 disqusShortname = 'kohinoor23-github-io'   # use disqus comments
 
