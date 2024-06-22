@@ -1,5 +1,5 @@
 +++
-title = 'BookLog'
+title = 'ContentLog'
 date = 2023-12-03T14:27:51+05:30
 draft = false
 menu = 'main'
