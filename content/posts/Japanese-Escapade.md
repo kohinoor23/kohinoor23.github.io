@@ -48,7 +48,7 @@ We prayed like a usual temple. Post this, we were given exact 25 mins to roam ar
   <figcaption>Praying Area</figcaption>
 </figure>
 
-![Gong](/images/IMG_2085.jpg)
+![Gong](/images/IMG_2085.jpg)  
 <figure>
   <img src="/images/IMG_2085.jpg" alt="Gong" width = "500px">
   <figcaption>Under the gong with the team</figcaption>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Kohinoor Writes</title>
+    <link>https://kohinoor23.github.io/posts/</link>
+    <description>Recent content in Blog on Kohinoor Writes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Dec 2023 14:42:52 +0530</lastBuildDate>
+    <atom:link href="https://kohinoor23.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Japanese Escapade</title>
+      <link>https://kohinoor23.github.io/posts/japanese-escapade/</link>
+      <pubDate>Sun, 10 Dec 2023 09:04:56 +0530</pubDate>
+      <guid>https://kohinoor23.github.io/posts/japanese-escapade/</guid>
+      <description>Prologue I canceled my research internship in Singapore to prepare for the intern interviews. The pang of not “going out” hit hard. In May 2023, I was fully into intern prep, while watching my friends land in different countries across the globe. A mail titled “SAKURA SCIENCE University Program 2023” hits my inbox. The program looked very promising, but they were taking only 5 students, and that too from 2nd, 3rd, 4th, and 5th years, I could easily name 10 people from the 2nd and 3rd years with better research profiles than me.</description>
+    </item>
+    <item>
+      <title>The DepC Saga</title>
+      <link>https://kohinoor23.github.io/posts/the-depc-saga/</link>
+      <pubDate>Wed, 28 Sep 2022 09:10:32 +0530</pubDate>
+      <guid>https://kohinoor23.github.io/posts/the-depc-saga/</guid>
+      <description>Hola Freshers (or seniors😉). Welcome to IITD. You will get recognized by your hard work and planning for your entire life. This blog will introduce you to a golden opportunity. IIT may look like a door to infinite opportunities. There is a portal which can put you in front of a much bigger door, in a matter of 8 months. DepC (read Department Change) is a system present in IITD which allows you to change your department to the one of your choice.</description>
+    </item>
+  </channel>
+</rss>
